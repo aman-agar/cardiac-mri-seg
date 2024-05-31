@@ -7,3 +7,5 @@ The **model.py** contains the model and **train.py** contains the code for train
 
 Framework used - TensorFlow
 The dice coef achieved is **0.94**
+
+Link to paper - https://link.springer.com/article/10.1007/s11042-024-19432-0
